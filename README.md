@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sameer-dash
 - 👀 I’m interested in logic development in programming
 - 🌱 I’m currently learning core java
-- 📫 How to reach me:- my mail id- deadgunnerhl2dm@gmail.com
+- 📫 How to reach me:- my mail id- simplyfortestprogram@gmail.com
 
 <!---
 sameer-dash/sameer-dash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
